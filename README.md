@@ -5,7 +5,7 @@
 An android application with standalone container, that displays a list of Contextual Cards and gets json data from an API.
 This application works completely independently, also it usses an adapter so change in json will not affect this android application.
 
-## 🏗 Built With
+## Built With
 - Android Studio.
 - Java.
 - Picasso library(Used to load web images in bitmap form".
