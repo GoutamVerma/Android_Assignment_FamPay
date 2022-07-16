@@ -1,8 +1,5 @@
-<h1 align="center">FamPay Android Assignment</h1>
-
-<p align="center">
+### FamPay Android Assignment
 <img src="https://user-images.githubusercontent.com/54114888/124321900-16460200-db9c-11eb-96da-2c0c35254343.png" >
-</p>
 
 ## Description
 An android application with standalone container, that displays a list of Contextual Cards and gets json data from an API.
