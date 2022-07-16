@@ -13,6 +13,8 @@ This application works completely independently, also it usses an adapter so cha
 ## JSON API
 https://run.mocky.io/v3/fefcfbeb-5c12-4722-94ad-b8f92caad1ad
 
+## Minimum android API
+Android 10
 ## Deployment
 
 - Open Android Studio IDE.
