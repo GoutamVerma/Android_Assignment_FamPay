@@ -24,4 +24,4 @@ https://run.mocky.io/v3/fefcfbeb-5c12-4722-94ad-b8f92caad1ad
 - Select whether to run on Android Emulator or Physical Device connected with USB.
 
 ## Developed By:
-<h2 align="center">Goutam Verma</h2>
+Goutam Verma
